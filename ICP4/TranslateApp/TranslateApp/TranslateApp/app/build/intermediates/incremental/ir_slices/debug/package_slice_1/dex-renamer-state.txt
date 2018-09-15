@@ -1,0 +1,4 @@
+#Fri Sep 14 23:37:06 CDT 2018
+base.0=C\:\\Users\\so056124\\Downloads\\TranslateApp\\TranslateApp\\TranslateApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\40
+path.0=classes.dex
+renamed.0=classes.dex
